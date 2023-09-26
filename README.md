@@ -1,5 +1,5 @@
 
-To exclude directories in WinSCP open the application and do the following:
+### To exclude directories in WinSCP open the application and do the following:
 1. From the `Login` window click `Tools > Preferences...`;
 2. In the `Preferences` window navigate to `Transfer` section in the left side;
 3. From the right side click `Add...` button;
